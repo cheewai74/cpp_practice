@@ -1,0 +1,6 @@
+1. Menu -> Terminal -> Run Build Task...
+2. Select c/c++:g++.exe build active file
+3. After .exe file generated.
+4. In TERMINAL Tab, type .\# file name of the .exe file #
+   Example:
+   PS C:\Users\moses\OneDrive\Documents\CPP\cpp_practice\cpp_oop> .\example_class_person
