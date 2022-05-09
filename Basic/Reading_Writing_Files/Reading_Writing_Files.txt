@@ -1,2 +1,11 @@
 #include <fstream>
 #include <ofstream>  // output filestream.
+
+
+Mode:                   Behavior:
+ios::out                Open a file to write output
+ios::in                 Open a file to read input
+ios::app                Open a file to append output at the end of any existing content
+ios::trunc              Truncate the existing file (default behavior)
+ios::ate                Open a file without truncating and allow data to be written anywhere in the file
+ios::binary             Treat the file as binary format rather than text so the data may be stored in non-text format
