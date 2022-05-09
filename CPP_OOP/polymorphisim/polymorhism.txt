@@ -1,0 +1,3 @@
+derived class getting derived method from abstract class, 
+make sure method is declared as virtual.
+
