@@ -1,3 +1,4 @@
 derived class getting derived method from abstract class, 
 make sure method is declared as virtual.
 
+Derived classes, which use the protected access specifier.

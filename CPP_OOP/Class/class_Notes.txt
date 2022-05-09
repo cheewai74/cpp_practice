@@ -1,0 +1,17 @@
+By default, all class members have private access – so any members that appear in the class
+declaration without an access specifier will have private access.
+
+class ClassName
+{
+access specifier :
+member1 ;
+member2 ;
+access specifier :
+member3 ;
+member4 ;
+} ;
+
+• Public members are accessible from any place where the class is visible
+• Private members are accessible only to other members of the same class
+• Protected members are accessible only to other members of the same class and to
+members of classes derived from that class
