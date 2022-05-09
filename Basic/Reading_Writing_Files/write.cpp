@@ -15,7 +15,8 @@ int main(){
         cout << "Error opening file for output. " << endl ;
         return -1; // Signal an error t hen exit t he program.
     }
-    writer << song_lyrics <<endl;
-    writer.close();
+    writer << song_lyrics <<endl; // Write output
+    writer.close(); // Close file stream
+    return 0;
 }
 
