@@ -1,0 +1,4 @@
+1. The data members should be labeled as private using the private access specifiers. 
+
+2. The member function which manipulates the data members should be labeled as 
+public using the public access specifier.
