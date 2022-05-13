@@ -1,1 +1,3 @@
 Store the address of the variable.
+
+Pointer store address -- This is the key point to remember.
