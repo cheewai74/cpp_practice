@@ -1,0 +1,6 @@
+Mouse Right Click "Properties" ->  C/C++ -> preprocessor -> Click on Preprocessor Definitions
+Preprocessor Definitions
+_CRT_SECURE_NO_WARNINGS=1
+_HAS_ITERATOR_DEBUGGING=0
+
+Language -> C++ Language Standard -> Preview - Features from the Latest C++ Working Draft
